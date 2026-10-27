@@ -1,0 +1,13 @@
+﻿sweepstake_id,customer_id,phone,birth_date,address,total_money_spent,income,Are you over 18?,favorite_color
+1,100101,635-573-9754,4/28/1989,"1229 Main Street, Scranton, PA",11000,100000,Yes,Blue
+2,100101,635-573-9754,4/28/1989,"1229 Main Street, Scranton, PA",11000,100000,Yes,Blue
+3,100102,7292879456,4/11/1965,"123 North Hill Drive, Dallas, TX",947,75000,Y,Purple
+4,100103,126-583-7856,2/7/1999,"432 Hilly Road, Austin, Tx",534,60000,No,Green
+5,100104,(975)357-7663,4/22/1921,"101 Alpine Avenue, New York, NY",3567,,Yes,Blue
+6,100105,,11/7/1948,"12 South Main Lane, San Francisco, CA",195,105000,Y,Teal
+7,100106,,9/4/2001,"1 Pastery Lane, Chicago, IL",56,50000,N,Orange
+8,100106,,9/4/2001,"1 Pastery Lane, Chicago, IL",56,50000,N,Orange
+9,100107,235-357-3464,1978/20/08,"987 Croissant Street, Scranton, Pa",2536,30000,Yes,Yellow
+10,100108,906-485-1542,7/6/2006,"701 North Street, Sarasota, FL",1009,65000,Y,Red
+11,100109,674-357-9151,1987/30/05,"62810 Julip Lane, Scranton, PA",540,,Y,Pink
+12,100110,346/458/3370,10/15/1934,"122 South Street, Charleston, SC",36,45000,Yes,Purple

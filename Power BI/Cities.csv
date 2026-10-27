@@ -1,0 +1,21 @@
+City,Population,Median_Income,Unemployment_Rate,Green_Space_Percentage,Region
+New York,"8,336,817","68,500",4.5,27.8,Northeast
+Los Angeles,"3,979,576","62,300",5.6,15.4,West
+Chicago,"2,693,976","58,000",6.3,18.9,Midwest
+Houston,"2,320,268","53,700",7.1,11.2,South
+Phoenix,"1,680,992","51,800",6,21.3,Southwest
+Philadelphia,"1,584,064","47,200",6.8,19.6,Northeast
+San Antonio,"1,547,253","45,600",5.2,22.7,South
+San Diego,"1,423,851","70,300",4.9,25.5,West
+Dallas,"1,343,573","56,700",5.8,14.3,South
+San Jose,"1,021,795","110,300",3.4,28.1,West
+Austin,"978,908","60,400",5.1,20.2,South
+Jacksonville,"911,507","44,700",6.3,16.4,South
+Fort Worth,"909,585","55,900",6.7,17.8,South
+Columbus,"898,553","50,300",5.8,18.1,Midwest
+Charlotte,"885,708","53,200",6.4,19.3,South
+San Francisco,"873,965","120,000",2.9,30.5,West
+Indianapolis,"876,384","48,300",6.5,18.9,Midwest
+Seattle,"744,955","105,300",3.1,27.2,West
+Denver,"727,211","85,700",4.7,25.4,West
+Washington,"705,749","98,500",4.3,24.7,Northeast
